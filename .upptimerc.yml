@@ -21,7 +21,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://tinyurl.com/DozenCordLogo
   name: DozenCord
-  introTitle: "**DozenCord** is a selfhosted Discord version""
+  introTitle: "**DozenCord** is a selfhosted Discord version"
   introMessage: "Bored of that old Laggy discord? Try our own selfhosted DozenCord right now!"
    navbar:
     - title: Status
