@@ -10,17 +10,17 @@ sites:
   - name: DozenCord CDN
     url: https://cdn.dozen-cord.cf
   - name: Fosscord-server official unstable site
-    url: https://
+    url: https://dev.fosscord.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: 
   # baseUrl: /dozen-cord-status
   logoUrl: https://tinyurl.com/dozencordlogo
   name: DozenCord
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**DozenCord** is a remix selfhosted version of Discord!"
+  introMessage: Bored of that old laggy discord filled with bugs? Try DozenCord now! It's not laggy it has less bugs and it has better support! For more info join our discord server!
   navbar:
     - title: Status
       href: /
