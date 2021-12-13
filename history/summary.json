@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 146,
-    "timeDay": 146,
-    "timeWeek": 146,
-    "timeMonth": 146,
-    "timeYear": 146,
+    "time": 151,
+    "timeDay": 151,
+    "timeWeek": 151,
+    "timeMonth": 151,
+    "timeYear": 151,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 496,
-    "timeDay": 496,
-    "timeWeek": 496,
-    "timeMonth": 496,
-    "timeYear": 496,
+    "time": 495,
+    "timeDay": 495,
+    "timeWeek": 495,
+    "timeMonth": 495,
+    "timeYear": 495,
     "dailyMinutesDown": {}
   },
   {
@@ -41,38 +41,38 @@
     "icon": "https://favicons.githubusercontent.com/cdn.dozen-cord.cf",
     "slug": "dozen-cord-cdn",
     "status": "down",
-    "uptime": "19.65%",
-    "uptimeDay": "19.65%",
-    "uptimeWeek": "19.65%",
-    "uptimeMonth": "19.65%",
-    "uptimeYear": "19.65%",
+    "uptime": "11.52%",
+    "uptimeDay": "11.52%",
+    "uptimeWeek": "11.52%",
+    "uptimeMonth": "11.52%",
+    "uptimeYear": "11.52%",
     "time": 243,
     "timeDay": 243,
     "timeWeek": 243,
     "timeMonth": 243,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2021-12-13": 16
+      "2021-12-13": 30
     }
   },
   {
     "name": "Fosscord-server official unstable site",
-    "url": "https://dev.fosscord.com",
+    "url": "http://dev.fosscord.com",
     "icon": "https://favicons.githubusercontent.com/dev.fosscord.com",
     "slug": "fosscord-server-official-unstable-site",
     "status": "down",
-    "uptime": "0.10%",
-    "uptimeDay": "0.10%",
-    "uptimeWeek": "0.10%",
-    "uptimeMonth": "0.10%",
-    "uptimeYear": "0.10%",
-    "time": 129,
-    "timeDay": 129,
-    "timeWeek": 129,
-    "timeMonth": 129,
-    "timeYear": 129,
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
+    "time": 136,
+    "timeDay": 136,
+    "timeWeek": 136,
+    "timeMonth": 136,
+    "timeYear": 136,
     "dailyMinutesDown": {
-      "2021-12-13": 20
+      "2021-12-13": 34
     }
   }
 ]
