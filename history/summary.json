@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 151,
-    "timeDay": 151,
-    "timeWeek": 151,
-    "timeMonth": 151,
-    "timeYear": 151,
+    "time": 157,
+    "timeDay": 157,
+    "timeWeek": 157,
+    "timeMonth": 157,
+    "timeYear": 157,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 495,
-    "timeDay": 495,
-    "timeWeek": 495,
-    "timeMonth": 495,
-    "timeYear": 495,
+    "time": 497,
+    "timeDay": 497,
+    "timeWeek": 497,
+    "timeMonth": 497,
+    "timeYear": 497,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,19 @@
     "icon": "https://favicons.githubusercontent.com/cdn.dozen-cord.cf",
     "slug": "dozen-cord-cdn",
     "status": "down",
-    "uptime": "11.52%",
-    "uptimeDay": "11.52%",
-    "uptimeWeek": "11.52%",
-    "uptimeMonth": "11.52%",
-    "uptimeYear": "11.52%",
+    "uptime": "0.40%",
+    "uptimeDay": "0.40%",
+    "uptimeWeek": "0.40%",
+    "uptimeMonth": "0.40%",
+    "uptimeYear": "0.40%",
     "time": 243,
     "timeDay": 243,
     "timeWeek": 243,
     "timeMonth": 243,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2021-12-13": 30
+      "2021-12-14": 72,
+      "2021-12-13": 900
     }
   },
   {
@@ -61,18 +62,19 @@
     "icon": "https://favicons.githubusercontent.com/dev.fosscord.com",
     "slug": "fosscord-server-official-unstable-site",
     "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
-    "time": 136,
-    "timeDay": 136,
-    "timeWeek": 136,
-    "timeMonth": 136,
-    "timeYear": 136,
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 142,
+    "timeDay": 142,
+    "timeWeek": 142,
+    "timeMonth": 142,
+    "timeYear": 142,
     "dailyMinutesDown": {
-      "2021-12-13": 34
+      "2021-12-14": 72,
+      "2021-12-13": 904
     }
   }
 ]
