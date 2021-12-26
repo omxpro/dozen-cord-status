@@ -22,19 +22,19 @@
     "url": "https://github.com/omxpro/dozen-cord-status",
     "icon": "https://favicons.githubusercontent.com/github.com",
     "slug": "dozen-cord-status-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 564,
-    "timeDay": 532,
-    "timeWeek": 580,
-    "timeMonth": 564,
-    "timeYear": 564,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 567,
+    "timeDay": 578,
+    "timeWeek": 586,
+    "timeMonth": 567,
+    "timeYear": 567,
     "dailyMinutesDown": {
-      "2021-12-26": 0
+      "2021-12-26": 18
     }
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 243,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2021-12-26": 1393,
+      "2021-12-26": 1410,
       "2021-12-25": 1440,
       "2021-12-24": 1440,
       "2021-12-23": 1440,
@@ -87,7 +87,7 @@
     "timeMonth": 175,
     "timeYear": 175,
     "dailyMinutesDown": {
-      "2021-12-26": 1393,
+      "2021-12-26": 1410,
       "2021-12-25": 1440,
       "2021-12-24": 1440,
       "2021-12-23": 1440,
