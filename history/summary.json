@@ -22,9 +22,9 @@
     "url": "https://github.com/omxpro/dozen-cord-status",
     "icon": "https://favicons.githubusercontent.com/github.com",
     "slug": "dozen-cord-status-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 591,
     "timeMonth": 566,
     "timeYear": 566,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-26": 0
+    }
   },
   {
     "name": "DozenCord CDN",
@@ -52,7 +54,7 @@
     "timeMonth": 243,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2021-12-26": 74,
+      "2021-12-26": 1304,
       "2021-12-25": 1440,
       "2021-12-24": 1440,
       "2021-12-23": 1440,
@@ -74,18 +76,18 @@
     "icon": "https://favicons.githubusercontent.com/dev.fosscord.com",
     "slug": "fosscord-server-official-unstable-site",
     "status": "down",
-    "uptime": "0.06%",
+    "uptime": "0.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.10%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 176,
     "timeDay": 201,
     "timeWeek": 193,
     "timeMonth": 176,
     "timeYear": 176,
     "dailyMinutesDown": {
-      "2021-12-26": 74,
+      "2021-12-26": 1304,
       "2021-12-25": 1440,
       "2021-12-24": 1440,
       "2021-12-23": 1440,
